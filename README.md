@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @IsraelJan
-- 👀 I’m interested in Architecture, AI, and Data Analyst 
-- 🌱 I’m currently learning AI Machine Learning 
-- 💞️ I’m looking to collaborate on Architecture project and AI programming 
-- 📫 How to reach me @+254115889691 
-- 😄 Pronouns: He 
-- ⚡ Fun fact: Love Working From Home. I'm an Introvert more than an Extrovert 
+# Hi, I'm Israel Jan Otieno 👋
 
-<!---
-IsraelJan/IsraelJan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech-Driven Virtual Assistant | AI Workflow Automation Specialist | CRM & Operations Strategist
+
+I help businesses streamline operations, automate workflows, and build scalable digital systems using AI-powered tools and CRM automation.
+
+### 🚀 What I Specialize In
+- CRM Setup & Workflow Automation
+- GoHighLevel, HubSpot, HoneyBook & Salesforce
+- AI-Powered Business Systems
+- Real Estate Operations & Property Management
+- Web Design (WordPress, Wix, GoDaddy)
+- Lead Generation & Funnel Optimization
+- Zapier Automations & Integrations
+- Data Analytics & Reporting
+
+### 🛠 Tech Stack
+- GoHighLevel
+- HubSpot
+- Zapier
+- Salesforce
+- WordPress
+- Wix
+- Python
+- SQL
+- Tableau
+- Power BI
+- Google Workspace
+
+### 📂 Featured Projects
+- AI Workflow Automation Systems
+- IDX/MLS Lead Management
+- CRM Pipeline Optimization
+- Real Estate Operations Support
+- Web Design & Funnel Systems
+- Social Media Automation
+
+### 🌍 Currently
+- Building automation systems for real estate & service businesses
+- Learning advanced AI workflows & machine learning
+- Open to collaborations in AI, CRM systems, and business automation
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/israel-jan-35a702308
+- Portfolio: https://israeljan.my.canva.site/
+- Email: israeljan.78@gmail.com
+
+⚡ “Where efficiency meets empathy.”
