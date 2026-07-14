@@ -1,6 +1,6 @@
 # Hi, I'm Israel Jan Otieno 👋
 
-## Tech-Driven Virtual Assistant | AI Workflow Automation Specialist | CRM & Operations Strategist
+## Tech-Driven Virtual Assistant | AI Workflow Automation Specialist | CRM & Operations Strategist | Web developer 
 
 I help businesses streamline operations, automate workflows, and build scalable digital systems using AI-powered tools and CRM automation.
 
