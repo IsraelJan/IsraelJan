@@ -4,7 +4,7 @@
 
 I build digital experiences by looking beyond the interface.
 
-My work sits at the intersection of **business operations, digital systems, automation, and software engineering**. I started from the operational side of technology—working with customers, processes, CRMs, workflows, and real business problems—and that experience now shapes how I approach software.
+My work sits at the intersection of **business operations, digital systems, automation, and software engineering**. I started from the operational side of technology, working with customers, processes, CRMs, workflows, and real business problems and that experience now shapes how I approach software.
 
 Today, I design and build web experiences and digital systems with a strong focus on **how people use them, how information moves through them, and how technology supports the work around them**.
 
